@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Paper</span>!</h1>
-<h3 align='center'>i dont know how to code</h3>
+<h3 align='center'>Im really Gay</h3>
 ---
 
-<p align='center'>🔥 i am a non-programmer that skids from iidk! My Technologies/Skills:</p>
+<p align='center'>🔥 i am a programmer that isnt a skid like zyber My Technologies/Skills:</p>
 
 
 <p align="center">
